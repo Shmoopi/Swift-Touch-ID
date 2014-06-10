@@ -1,4 +1,4 @@
 Swift-Touch-ID
 ==============
 
-Example Local Authentication and Touch ID Authentication written in Swift
+Example Local Authentication usage with Touch ID Authentication written in Swift
